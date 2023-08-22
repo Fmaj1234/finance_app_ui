@@ -1,16 +1,11 @@
 # finance_app_ui
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
+https://github.com/Fmaj1234/finance_app_ui/assets/49940296/0324bfa8-fcd6-404e-8faa-276783cbaff5
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230822-030235_iphone13blue_portrait](https://github.com/Fmaj1234/finance_app_ui/assets/49940296/6e18930d-d2ff-4704-8bc3-0acc01598f7e)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20230822-030243_iphone13blue_portrait](https://github.com/Fmaj1234/finance_app_ui/assets/49940296/3c4c1ad7-25f3-4c3f-87c0-5f63facf7f8c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230822-030251_iphone13blue_portrait](https://github.com/Fmaj1234/finance_app_ui/assets/49940296/710c1c89-e639-41c3-8f65-534c62f67c3a)
